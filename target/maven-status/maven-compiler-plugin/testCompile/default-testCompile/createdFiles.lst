@@ -1,0 +1,17 @@
+steps\LoginTest.class
+steps\RemoveProductTest.class
+pages\ConfirmationPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+TestCucumberRunner.class
+steps\ProceedCheckoutTest.class
+base\Constants.class
+pages\OrderPage.class
+steps\AddProductToCartTest.class
+base\Browser.class
+pages\ProductDescription.class
+steps\AddDifferentProductsTest.class
+base\Hook.class
+pages\ModelPage.class
+pages\MyAccountPage.class
